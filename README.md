@@ -1,1 +1,1 @@
-# traktor-settings
+# Traktor settings for Hercules RMX DJ Console
